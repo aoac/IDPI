@@ -21,6 +21,7 @@ The ruleset can be generated and loaded host independently.
 Example:
 
   classifier MYTARGET {
+
     cfid = 10001;
 	category = http;
 	inherit = http;
