@@ -16,7 +16,8 @@ Support Linux/Freebsd system, support X86,MIPS,ARM processing architecture.
 
 ## AFDL
 AFDL(advance feature description language), which make it possiable to generate/update ruleset conveniently and efficiently. It can define regex/expression/state like C/C++ language syntax, also define the FSM dynamicly with a concisely syntax. 
-The ruleset can be host independent generated and loaded.
+The ruleset can be generated and loaded host independently.
+
 example:
 classifier MYTARGET {
 	
