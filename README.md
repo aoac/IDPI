@@ -4,7 +4,7 @@ It now support NFV and SDN framwork. It now already be used in vpp as a proven D
 
 
 + **[Performance](#performance)**
-+ **[Supported Architecture](#supported architecture)**
++ **[Supported Architecture](#supported-architecture)**
 + **[AFDL](#afdl)**
 + **[Contact Us](#contact-us)**
 
