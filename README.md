@@ -58,9 +58,10 @@ Example:
 	jump initial -(r5)-> final                                  ;
   }
  
-<img src="/screenshots/afdl.png" width="200px"> 
-<img src="/screenshots/classifier.png" width="200px"> 
-<img src="/screenshots/result.png" width="200px">
+<img src="/document/dfa.png" width="200px"> 
+<img src="/decument/idpi.gif" width="200px">
+<img src="/document/classifier.png" width="200px"> 
+<img src="/decument/skip-table.pgn" width="200px">
 
 ## Contact Us
 Feel free to contact us for any support, query, suggestion or even say hi.
